@@ -1,6 +1,7 @@
-## Hi there 👋 we are EcoPay
+## EcoPay
 
 Solutions for efficient waste management
+Now with a functionality powered by Gemini Ai
 
 <!--
 
