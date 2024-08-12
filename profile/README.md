@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋 we are EcoPay
+
+Solutions for efficient waste management
 
 <!--
 
