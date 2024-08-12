@@ -4,6 +4,9 @@ Solutions for efficient waste management
 
 Now with a functionality powered by Gemini Ai
 
+
+- [Youtube](https://youtu.be/JPifD5EUVow?si=8PEZWjbaybmfSYmT)
+
 <!--
 
 **Here are some ideas to get you started:**
